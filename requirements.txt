@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas>=2.2
+openpyxl>=3.1
+pypdf>=5.0
+reportlab>=4.2
+python-dotenv>=1.0
+# Optional OCR libraries; system binaries Poppler and Tesseract are also required.
+pdf2image>=1.17
+pytesseract>=0.3.13

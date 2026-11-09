@@ -1,0 +1,1 @@
+"""Core placement domain logic."""

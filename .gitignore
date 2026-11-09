@@ -1,0 +1,19 @@
+# Local credentials and database
+.env
+.streamlit/secrets.toml
+*.db
+*.sqlite
+*.sqlite3
+data/
+
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local OCR binary and operating-system files
+.tools/
+.DS_Store
+Thumbs.db

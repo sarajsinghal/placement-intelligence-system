@@ -1,0 +1,5 @@
+Copyright (c) 2026 Saraj Singhal. All rights reserved.
+
+This repository is published for viewing as a portfolio project. No permission is granted to copy, modify, distribute, sublicense, or use the source code or accompanying materials without prior written permission, except as required by applicable law or the platform's terms for viewing and hosting public repositories.
+
+Populated placement datasets are excluded. See DATA_NOTICE.md.
