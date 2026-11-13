@@ -1,6 +1,8 @@
-# Project 12: Placement Intelligence & Employability Management System
+# Placement Intelligence & Employability Management System
 
 A local-first MVP for one PGDM college placement department. The current working core is deliberately deterministic: explicit job rules drive eligibility, skill overlap is a separate discovery signal, and analytics describe observed cohorts without claiming causality. No LLM makes candidate eligibility or hiring decisions.
+
+**Live app:** https://placement-intelligence-system-gnkdk6nkzbc4jnixcgjrpw.streamlit.app/
 
 ## Run on Windows
 
